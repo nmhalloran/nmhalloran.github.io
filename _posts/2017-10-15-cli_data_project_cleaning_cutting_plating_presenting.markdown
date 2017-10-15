@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Project: Cleaning, Cutting, Plating, Presenting"
-date:       2017-10-15 18:03:46 +0000
+date:       2017-10-15 14:03:47 -0400
 permalink:  cli_data_project_cleaning_cutting_plating_presenting
 ---
 
